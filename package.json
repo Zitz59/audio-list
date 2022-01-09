@@ -1,0 +1,26 @@
+{
+  "name": "audio-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Zitz59/audio-list",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "start-dev": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "@babel/preset-react": "^7.16.7",
+    "babel-loader": "^8.2.3",
+    "html-webpack-plugin": "^5.5.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack": "^5.65.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.7.2"
+  }
+}
