@@ -1,0 +1,11 @@
+[33mcommit ff0cb1b0269165641ddfa977f0bebd4fe353a738[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeature[m[33m)[m
+Author: Zitz59 <dondongudon@gmail.com>
+Date:   Thu Jan 13 12:42:06 2022 +0300
+
+    add combonents structure and App.js
+
+[33mcommit 2879ca5044fe848cb423927a0b4c8aac6815f41f[m
+Author: Zitz59 <dondongudon@gmail.com>
+Date:   Thu Jan 13 12:36:10 2022 +0300
+
+    Add App.js, index.css and components structure
