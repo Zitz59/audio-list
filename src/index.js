@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 function App() {
-  return <main>Audio list</main>;
+  return <main></main>;
 }
 
 const appRoot = document.createElement("div");
