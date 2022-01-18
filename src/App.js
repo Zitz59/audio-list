@@ -1,12 +1,14 @@
+import React from "react";
+import Nav from "./Nav";
+import Content from "./Content"
 
-const App = (props) => {
+const App = () => {
 	return (
-		<div className="app-wrapper">
-		<Header/>
-		<Body/>
-		<Footer/>
-		</div>
+	  <main>
+		<Nav />
+		<Content/>
+	  </main>
 	);
-}
+  }
 
 export default App;
