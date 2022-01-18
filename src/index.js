@@ -1,8 +1,14 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import Nav from "./Nav";
 
 function App() {
-  return <main>Audio list</main>;
+  return (
+    <main>
+      <h1>Audio list</h1>
+      <Nav />
+    </main>
+  );
 }
 
 const appRoot = document.createElement("div");
